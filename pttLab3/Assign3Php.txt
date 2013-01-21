@@ -1,0 +1,10 @@
+<html>
+<body>
+<form>
+Roll No: <input type="text" name="rollNo"><br>
+Name: <input type="text" name="name">
+Hobbies: <input type="text" name="hobbies">
+Projects: <input type="text" name="projects">
+</form>
+</body>
+</html>
